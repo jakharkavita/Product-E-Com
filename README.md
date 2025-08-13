@@ -2,6 +2,10 @@
 
 Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
 
+![E-Commerce Preview](image11.jpg)
+![E-Commerce Preview](image22.jpg)
+![E-Commerce Preview](image33.jpg)
+
 
 ## Features
 
@@ -81,15 +85,6 @@ To run only the backend:
 
 ```bash
 npm run server
-```
-
-## Build & Deploy
-
-To create a production build for the frontend:
-
-```bash
-cd frontend
-npm run build
 ```
 
 ## Seed Database
